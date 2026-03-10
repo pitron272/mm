@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="+SBT Novelas" tvg-logo="https://i.imgur.com/MuKxlNO.png" group-title="ABERTOS",+SBT Novelas
+http://181.214.221.73:80/47125065/12264670/127320.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="+SBT Raiz" tvg-logo="https://i.imgur.com/hBKnnmH.png" group-title="ABERTOS",+SBT Raiz
+https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT
+http://181.214.221.73:80/47125065/12264670/127314.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="ABERTOS",GLOBO SÃO PAULO
+http://181.214.221.73:80/47125065/12264670/153459.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/YgHvz9I.png" group-title="ABERTOS",Band SP HD
+https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjM5YzNlMTRmLWM5Y2YtNDUyOC1iM2FlLWRlNDZlOTYyZTM3NiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc3MjczODYzMSwibmJmIjoxNzcyNzM4NjMxLCJleHAiOjE3NzMzNDM0MzEsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6IjM5YzNlMTRmLWM5Y2YtNDUyOC1iM2FlLWRlNDZlOTYyZTM3NiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6dHJ1ZX0.iMFa38kp-BDBKH-4QUCsscd9zKWhA9XD4AG4FNavRvg&uid=39c3e14f-c9cf-4528-b3ae-de46e962e376
+#EXTINF:-1, tvg-id="" tvg-name="ESPN 1" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-2048x2048.png" group-title="ESPORTES",ESPN 1
+http://46.151.196.223:14432
+#EXTINF:-1, tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/lMF2raO.png" group-title="ESPORTES",ESPN 2
+http://46.151.196.223:14438
+#EXTINF:-1, tvg-id="" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/gYaeIDq.png" group-title="ESPORTES",ESPN 3
+http://46.151.196.223:14444
+#EXTINF:-1, tvg-id="" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/um0JAiw.png" group-title="ESPORTES",ESPN 4
+http://46.151.196.223:14450
+#EXTINF:-1,TNT SD [Play Geh TV]
+http://148.113.160.49:14141
+#EXTINF:-1,TNT SD2 [Play Geh TV]
+http://s2.micineovs.com/TNT/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1,TNT 720p
+https://d1muf25xa03so8hp06.s27-usa-cloudfront-net.online/token/585de97f7345d0bf528dca990ba88b4a/tnt.txt
+#EXTINF:-1,TNT FHD
+http://serv99.xyz:8880/oliveiracwb/g5a7s31u/11084
+#EXTINF:-1,SPACE SD [Play Geh TV]
+http://148.113.160.49:14170
+#EXTINF:-1,SPACE HD¹
+http://serv99.xyz:8880/oliveiracwb/g5a7s31u/1780
