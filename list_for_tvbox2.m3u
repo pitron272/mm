@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="" tvg-name="+SBT Novelas tvg-logo="https://i.imgur.com/MuKxlNO.png" group-title="ABERTOS",+SBT Novelas
+#EXTINF:-1, tvg-id="" tvg-name="+SBT Novelas" tvg-logo="https://i.imgur.com/MuKxlNO.png" group-title="ABERTOS",+SBT Novelas
 http://181.214.221.73:80/47125065/12264670/127320.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="+SBT Raiz" tvg-logo="https://i.imgur.com/hBKnnmH.png" group-title="ABERTOS",+SBT Raiz
 https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
@@ -28,4 +28,5 @@ http://serv99.xyz:8880/oliveiracwb/g5a7s31u/11084
 #EXTINF:-1,SPACE SD [Play Geh TV]
 http://148.113.160.49:14170
 #EXTINF:-1,SPACE HD¹
+
 http://serv99.xyz:8880/oliveiracwb/g5a7s31u/1780
