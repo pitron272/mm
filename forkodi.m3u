@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="" tvg-name="+SBT Novelas" tvg-logo="https://i.imgur.com/dcYqg3J.png" group-title="ABERTOS",+SBT Novelas
+#EXTINF:-1, tvg-id="" tvg-name="+SBT Novelas" tvg-logo="https://i.imgur.com/7bkbJwq.png" group-title="ABERTOS",+SBT Novelas
 http://181.214.221.73:80/47125065/12264670/127320.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="+SBT Raiz" tvg-logo="https://images4.imagebam.com/5d/d8/0e/ME1B7JE4_o.png" group-title="ABERTOS",+SBT Raiz
 http://181.214.221.73:80/47125065/12264670/127323.m3u8
@@ -37,6 +37,7 @@ http://novo.livetv2021.online:8080/W4Tq9BRqjx/fKvgRJKB8v/297
 http://148.113.160.49:14170
 #EXTINF:-1, tvg-id="" tvg-name="SPACE HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FILMES",SPACE HD¹
 http://serv99.xyz:8880/oliveiracwb/g5a7s31u/1780
+
 
 
 
