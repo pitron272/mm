@@ -7,6 +7,10 @@ http://181.214.221.73:80/47125065/12264670/127323.m3u8
 http://181.214.221.73:80/47125065/12264670/127314.m3u8
 #EXTINF:-1, tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT Nova Mutum [Chapolin]
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/chunklist_w1042837015.m3u8
+#EXTINF:-1, tvg-id="Punky, A Levada da Breca" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",Punky, A Levada da Breca
+http://46.151.196.223:14091
+#EXTINF:-1, tvg-id="CNNi" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-logo.jpg" group-title="ABERTOS",CNN HD
+http://46.151.196.223:14086
 #EXTINF:-1, tvg-id="Globo SP_local" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="ABERTOS",GLOBO SP
 http://181.214.221.73:80/47125065/12264670/153459.m3u8
 #EXTINF:-1, tvg-id="Record RJ SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="ABERTOS",Record RJ SD
