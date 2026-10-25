@@ -13,7 +13,7 @@ rtsp://192.168.2.109:554/user=admin_password=tlJwpbo6_channel=0_stream=1&onvif=0
 http://xewte.top/99456963/85713984/127320.ts
 #EXTINF:-1 tvg-id="+SBT Show do Milhão" tvg-logo="https://images4.imagebam.com/a2/8c/6c/ME1B7KPV_o.png" group-title="ABERTOS",+Raiz
 https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
-#EXTINF:-1, tvg-id="Eguinorante" group-title="ABERTOS",Egui
+#EXTINF:-1 tvg-id="Eguinorante" group-title="ABERTOS",Egui
 https://d1m7jfoe9zdc1j.cloudfront.net/d317d43ddff5eb119316_eguinorante_319274803190_1792958148/chunked/index-dvr.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT SP HD
 https://aovivo.maissbt.com/channel.m3u8
